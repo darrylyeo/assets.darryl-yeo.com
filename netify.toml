@@ -1,0 +1,8 @@
+[[redirects]]
+	from = "/"
+	to = "https://darryl-yeo.com"
+	status = 302
+
+	from = "*"
+	to = "https://darryl-yeo.com"
+	status = 302
